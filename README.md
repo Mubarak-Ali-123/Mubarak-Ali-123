@@ -46,13 +46,13 @@
 ## Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,javascript,typescript,php,dart,cpp" />
+<img src="https://skillicons.dev/icons?i=python,javascript,typescript,cpp" />
 </p>
 
 ## Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,flutter" />
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap" />
 </p>
 
 ## Backend
@@ -153,18 +153,6 @@ A complete management system for shooting range operations.
 
 ---
 
-# 📊 GitHub Statistics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Mubarak-Ali-123&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mubarak-Ali-123&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
 # 🔥 GitHub Streak
 
 <p align="center">
@@ -190,7 +178,7 @@ A complete management system for shooting range operations.
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,docker,linux" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker" />
 
 </p>
 
