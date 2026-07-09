@@ -139,24 +139,6 @@ AI application that generates captions for uploaded images.
 
 ---
 
-## 🎤 Speaker Diarization & Meeting Minutes Generator
-
-AI system capable of
-
-- Speaker Identification
-- Speech-to-Text
-- Meeting Summarization
-
-### Technologies
-
-- Pyannote
-- Faster Whisper
-- Mistral 7B
-- FastAPI
-- React
-
----
-
 ## 🎯 EM Shooting Range Management System
 
 A complete management system for shooting range operations.
@@ -203,15 +185,6 @@ A complete management system for shooting range operations.
 
 ---
 
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mubarak-Ali-123&theme=tokyo-night"/>
-
-</p>
-
----
 
 # 💻 Tools & Software
 
@@ -248,12 +221,6 @@ A complete management system for shooting range operations.
 </a>
 
 </p>
-
----
-
-# 💡 Favorite Quote
-
-> "The best way to predict the future is to build it."
 
 ---
 
