@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Syed Mubarak Ali</h1>
-<h3 align="center">Full Stack Developer • AI Enthusiast • Computer Science Student</h3>
+<h3 align="center">Backend Developer • AI Enthusiast • Computer Science Student</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;AI+Developer;Backend+Developer;Computer+Science+Student;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&center=true&vCenter=true&width=650&lines=AI+Developer;Backend+Developer;Computer+Science+Student;Always+Learning+New+Things" />
 </p>
 
 <p align="center">
@@ -27,8 +27,6 @@
 - Artificial Intelligence
 - Machine Learning
 - System Design
-- Cloud Computing
-
 ---
 
 # 🚀 Current Focus
@@ -37,7 +35,6 @@
 - 🌐 Full Stack Development
 - ⚡ Backend APIs
 - 🗄 Database Design
-- ☁ Cloud Technologies
 
 ---
 
